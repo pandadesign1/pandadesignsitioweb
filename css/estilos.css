@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap');
+
 
 :root {
     --background: linear-gradient(135deg, #667eea7e 0%, #764ba298 100%);
@@ -37,7 +37,7 @@ body{
 
 .hero{
     height: 100vh;
-    background-image: var(--background), url(/imagen/fondo2.jpg);
+    background-image: var(--background), url(./imagen/fondo2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
