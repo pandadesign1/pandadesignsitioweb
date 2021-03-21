@@ -12,6 +12,9 @@ body{
     
 }
 
+.collapse { 
+    width: 90%
+        background: #fff; }
 
 .container{
      width: 90%;
